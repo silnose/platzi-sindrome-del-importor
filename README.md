@@ -1,4 +1,5 @@
-# Sindrome del impostor => https://platzi.com/clases/2668-sindrome-impostor/
+# Sindrome del impostor
+https://platzi.com/clases/2668-sindrome-impostor/
 
 Alguna vez has tenido la sensación que se genera por autoexigirnos y la necesidad de presentarnos ante el mundo de una manera transparente, pero, sintiendo que no somos suficientes? Eso es síndrome del impostor
 
